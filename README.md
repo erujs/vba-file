@@ -12,5 +12,5 @@ macro tool that can create and writes data to a txt file or specified file types
 
 - goto Visual Basic Editor <br>
 - `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu. <br>
-- start coding :smile: <br>
+- start coding :heart: <br>
 - to run the code: simply press `F5` to execute the whole code or `F8` to run it by line.
