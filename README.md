@@ -1,5 +1,5 @@
 ## vba-file
-Macro tool that can create and writes data to a txt file or specified file types.
+Macro tool that can create and writes data to a specified file types.
 
 ### importing vba module:
 
