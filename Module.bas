@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module2"
+Attribute VB_Name = "Module"
 'Docs for VBA properties:
 '   https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/freespace-property
 '
