@@ -14,3 +14,4 @@ Macro tool that can create and writes data to a specified file type.
 - `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu. <br>
 - start coding :heart: <br>
 - to run the code: simply press `F5` to execute the whole code or `F8` to run it by line.
+[//]: <> (This is a comment.)
