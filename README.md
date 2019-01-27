@@ -17,4 +17,5 @@ Macro tool that can create and writes data to a specified file type.
 <!-- 
   Just another comment [//-]
   And yes it is just a comment.
+  Another one.
 -->
