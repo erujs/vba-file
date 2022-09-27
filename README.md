@@ -1,18 +1,23 @@
 ## vba-file
 Macro tool that can create and writes data to a specified file type.
 
-### Importing VBA module:
+### Enable developer mode on Excel
 
-- open workbook in Excel <br>
-- press `Alt + F11` to open Visual Basic Editor. <br>
+- in Excel click File tab and goto Options
+- in Options, navigate to Customize Ribbon
+- under Main tabs, ensure that the checkbox for Developer is in check
+
+### Importing VBA module
+
+- in Developer tab click Visual Basic to open the editor
 - `Right-click` on Project-VBAProject Window and select `Import File` <br>
 - navigate the `.bas` file to be imported <br>
 
 ### Create VBA module
 
 - goto Visual Basic Editor <br>
-- `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu. <br>
+- `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu <br>
 - start coding :heart: <br>
-- to run the code: simply press `F5` to execute the whole code or `F8` to run it by line.
+- to run the code: simply press `F5` to execute the whole code or `F8` to run it by line
 
 <!-- comment -->
